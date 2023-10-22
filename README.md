@@ -27,3 +27,5 @@ We propose a Multi-task **Demo**nstration based Generative Framework for **N**oi
 <img width="700" alt="image" src="https://github.com/dongguanting/Demo-NSF/assets/60767110/0889d577-7b22-46f4-a074-44cb78da4ad8">
 
 ## 🎯 Quick Start
+
+### Dependencies
