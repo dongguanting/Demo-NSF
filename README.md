@@ -1,6 +1,5 @@
 # DemoNSF: A Multi-task Demonstration-based Generative Framework for Noisy Slot Filling Task
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bridging-the-kb-text-gap-leveraging/knowledge-base-question-answering-on-1)](https://paperswithcode.com/sota/knowledge-base-question-answering-on-1?p=bridging-the-kb-text-gap-leveraging)
 
 ## 🎥 Overview
 This repository contains the open-sourced official implementation of the paper:
