@@ -1,0 +1,2992 @@
+i'd O
+like O
+2 O
+find O
+a O
+train O
+that O
+leaves O
+on O
+monday B-day
+and O
+arrives O
+by O
+7pm B-arrive
+
+i O
+need O
+to O
+get O
+away O
+from O
+peterborough B-depart
+
+just O
+1 B-people
+, O
+pls O
+. O
+
+leave O
+stansted B-depart
+air I-depart
+aftr O
+11:45 B-leave
+
+id O
+like O
+2 O
+deprt O
+from O
+stevenage B-depart
+after O
+19:45 B-leave
+
+pls O
+confirm O
+when O
+the O
+2sday B-day
+train O
+leaves O
+
+well O
+. O
+i O
+am O
+willing O
+to O
+go O
+from O
+cabridge O
+to O
+london B-depart
+liverpool I-depart
+street I-depart
+
+i O
+wud O
+like O
+2 O
+leave O
+after O
+20:15 B-leave
+
+im O
+lking O
+fa O
+train O
+going O
+to O
+cambridge B-dest
+. O
+
+well O
+its O
+broxbourne B-depart
+on O
+tuesday B-day
+
+id O
+juss O
+lyk O
+to O
+arrive O
+by O
+1645 B-arrive
+plz O
+
+yup O
+, O
+one B-people
+tc O
+plz O
+
+i O
+wanna O
+go O
+to O
+cambridge B-dest
+by O
+train O
+, O
+i O
+have O
+to O
+get O
+there O
+at O
+11:30 B-arrive
+
+im O
+departin O
+frm O
+ely B-depart
+
+im O
+headed O
+2 O
+leicster B-dest
+frm O
+cambridge B-depart
+on O
+sat B-day
+
+oh O
+. O
+sorry O
+its O
+not O
+morning O
+8:45 O
+. O
+its O
+evening O
+8:45 O
+. O
+
+i O
+want O
+to O
+arrive O
+by O
+19:30 B-arrive
+please O
+
+train O
+departing O
+from O
+london B-depart
+kings I-depart
+cross I-depart
+? O
+
+saturday B-day
+, O
+to O
+cambridge B-dest
+, O
+pls O
+
+the O
+train O
+shud O
+go O
+2 O
+cambcambr B-dest
+en O
+arrive O
+by O
+14:00 B-arrive
+
+plz O
+book O
+dat O
+for O
+5 B-people
+ppl O
+
+im O
+travelin O
+on O
+mon B-day
+and O
+need O
+2 O
+leave O
+aftr O
+1630 B-leave
+
+i O
+need O
+to O
+arrive O
+by O
+11:15 B-arrive
+. O
+
+i O
+need O
+a O
+train O
+that O
+arrves O
+at O
+12:30 B-arrive
+on O
+wed B-day
+. O
+
+im O
+departing O
+frm O
+birmingham B-depart
+new I-depart
+st. I-depart
+to O
+cambridge B-dest
+
+yes O
+, O
+i've O
+2 O
+be O
+in O
+cambridge B-dest
+12:30 B-arrive
+, O
+pls O
+. O
+
+id O
+like O
+2 O
+go O
+on O
+sunday B-day
+
+i O
+need O
+a O
+train O
+leavin O
+cmabridge B-depart
+after O
+17:30 B-leave
+. O
+
+2 O
+stansted B-dest
+airprt I-dest
+on O
+sat B-day
+
+looking O
+for O
+a O
+train O
+dep. O
+mon. B-day
+out O
+of O
+cam. B-depart
+
+ya O
+i O
+ned O
+three B-people
+seats O
+on O
+the O
+train O
+plz O
+. O
+
+iam O
+looking O
+for O
+a O
+tran O
+that O
+goes O
+to O
+london B-dest
+liverpool I-dest
+street I-dest
+and O
+leafes O
+after O
+17:15 B-leave
+. O
+
+this O
+fri B-day
+
+i O
+am O
+lookinge O
+four O
+an O
+train O
+that O
+departs O
+form O
+cambridge B-depart
+on O
+sthursdai B-day
+
+is O
+there O
+any O
+thing O
+else O
+i O
+can O
+help O
+you O
+with O
+
+i'll O
+be O
+lving O
+frm O
+camb. B-depart
+
+birmingham B-dest
+new I-dest
+st I-dest
+
+mday B-day
+is O
+wen O
+i O
+plan O
+to O
+trvl O
+
+just O
+one B-people
+piece O
+of O
+paper O
+please O
+. O
+
+ima O
+go O
+from O
+liverpol B-depart
+st I-depart
+in O
+lundon I-depart
+. O
+
+well O
+. O
+it O
+is O
+wednesday B-day
+
+i O
+wuld O
+like O
+to O
+find O
+a O
+train O
+livin O
+cambridge B-depart
+on O
+monday B-day
+
+can O
+u O
+get O
+my O
+train O
+from O
+cam B-depart
+this O
+sun B-day
+? O
+
+i O
+needs O
+to O
+find O
+trein O
+that O
+gonna O
+arrive O
+in O
+stevenage B-dest
+by O
+11:45 B-arrive
+. O
+
+trains O
+leeving O
+thu B-day
+stansteeed B-dest
+daytim O
+
+im O
+lking O
+fa O
+train O
+lving O
+from O
+norwich B-depart
+. O
+
+pls O
+help O
+me O
+get O
+2 O
+cambs B-dest
+
+i O
+will O
+b O
+departing O
+from O
+norwich B-depart
+on O
+wednesday B-day
+
+4 B-people
+more O
+people O
+are O
+going O
+with O
+me O
+, O
+book O
+it O
+
+trains O
+from O
+cams B-depart
+2 O
+stansted B-dest
+ta! O
+
+well O
+its O
+13:45 B-leave
+sunday O
+
+i O
+only O
+need O
+1 B-people
+2day O
+
+actually O
+the O
+train O
+i O
+need O
+is O
+from O
+cambridge B-depart
+to O
+bishop B-dest
+stortford I-dest
+and O
+not O
+the O
+other O
+way O
+round O
+. O
+
+one B-people
+is O
+enough O
+. O
+please O
+book O
+
+i'm O
+gonna O
+london B-dest
+king I-dest
+cross I-dest
+and O
+i O
+have O
+to O
+arrive O
+before O
+16:45 B-arrive
+
+find O
+me O
+please O
+any O
+train O
+to O
+cambridge B-dest
+
+i'm O
+lkng O
+for O
+train O
+frm O
+london B-depart
+on O
+friday B-day
+after O
+20:00 B-leave
+
+looking O
+for O
+train O
+from O
+cambridge B-depart
+
+pls O
+tell O
+the O
+train O
+details O
+of O
+train O
+from O
+cambridge B-depart
+on O
+sunday B-day
+
+plz O
+verify O
+it O
+will O
+b O
+@ O
+stevenage B-dest
+by O
+9 O
+? O
+
+i O
+ned O
+a O
+train O
+departing O
+cfrom O
+cabraineg B-depart
+
+will O
+be O
+goin O
+to O
+london B-dest
+liverpool I-dest
+street I-dest
+on O
+sunday O
+. O
+
+i O
+wanna O
+take O
+a O
+train O
+to O
+cambridge B-dest
+
+does O
+train O
+depart O
+frm O
+broxbourne B-depart
+station O
+
+sun B-day
+
+well O
+. O
+it O
+would O
+be O
+better O
+if O
+leave O
+after B-leave
+13:45 I-leave
+from O
+the O
+station O
+
+can O
+i O
+plz O
+get O
+info O
+for O
+a O
+train O
+going O
+from O
+cambridge B-depart
+2 O
+broxbourne B-dest
+? O
+
+1st O
+train O
+after O
+19:45 B-leave
+- O
+id O
+and O
+$ O
+? O
+
+i'm O
+gonna O
+to O
+stansted B-dest
+airport I-dest
+by O
+train O
+from O
+cambridge B-depart
+
+i O
+ned O
+to O
+go O
+2 O
+cambridg B-dest
+bi O
+train O
+
+kindly O
+, O
+make O
+it O
+possible O
+for O
+me O
+to O
+depart O
+at O
+8.00 B-leave
+to O
+cambridge B-dest
+. O
+
+that O
+is O
+fine O
+, O
+may O
+i O
+purchase O
+6 B-people
+tickets O
+? O
+
+please O
+find O
+me O
+cambridge B-depart
+- O
+norwich B-dest
+train O
+
+id O
+like O
+to O
+go O
+on O
+sunday B-day
+. O
+
+i O
+must O
+arrive O
+no O
+later O
+than O
+12:30 B-arrive
+
+i O
+only O
+want O
+1 B-people
+pls O
+
+yes O
+of O
+course O
+. O
+it O
+is O
+sunday B-day
+
+train O
+at O
+17:15 B-leave
+and O
+later O
+, O
+please O
+
+book B-people
+for B-people
+2 B-people
+people B-people
+
+want O
+to O
+depart O
+from O
+cambridge B-depart
+on O
+monday B-day
+by O
+12:45 B-arrive
+. O
+
+which O
+train O
+will O
+b O
+bakk O
+by O
+9:15 B-arrive
+
+can O
+you O
+tell O
+me O
+where O
+iam O
+. O
+iam O
+leaving O
+from O
+cambridge B-depart
+
+i O
+am O
+looking O
+4 O
+a O
+train O
+going O
+to O
+birmingham B-dest
+new I-dest
+street I-dest
+and O
+shod O
+leave O
+on O
+thurs B-day
+
+well O
+its O
+from O
+cambridge B-depart
+. O
+and O
+i O
+should O
+arrive O
+there O
+by O
+17:15 B-arrive
+
+of O
+course O
+. O
+its O
+is O
+from O
+cambridge B-depart
+to O
+london O
+liverpool O
+
+well O
+it O
+would O
+be O
+better O
+if O
+i O
+arrive O
+at O
+15:45 O
+on O
+tuesday B-day
+at O
+cambridge O
+
+i'm O
+looking O
+4 O
+train O
+out O
+of O
+cambridge B-depart
+sat B-day
+. O
+
+i O
+want O
+2 O
+go O
+2 O
+kingz B-dest
+lyn I-dest
+
+i O
+need O
+a O
+to O
+find O
+a O
+trai O
+deprting O
+from O
+sansted B-depart
+airpor I-depart
+going O
+too O
+cambirdge B-dest
+
+i'm O
+leaving O
+this O
+saturday B-day
+for O
+cambridge B-dest
+
+pls O
+find O
+my O
+ely B-dest
+train O
+
+4 O
+thurs B-day
+. O
+
+all O
+i O
+neeed O
+is O
+too O
+arrve O
+by O
+14:15 B-arrive
+. O
+
+ill O
+be O
+gng O
+frm O
+cambrige B-depart
+to O
+broxborn B-dest
+
+this O
+sat B-day
+
+can O
+you O
+tell O
+by O
+which O
+train O
+i O
+can O
+leave O
+at O
+08:30 B-leave
+
+yes O
+that O
+would O
+be O
+fine O
+please O
+book O
+for O
+6 B-people
+people O
+. O
+
+pls O
+help O
+me O
+get O
+train O
+2 O
+norwich B-depart
+
+the O
+train O
+should O
+leave O
+arter O
+17:00 B-leave
+and O
+should O
+go O
+2 O
+cambridge B-dest
+
+well O
+i O
+need O
+reservation O
+for O
+4 B-people
+people O
+for O
+that O
+train O
+
+ely O
+1709 B-arrive
+friday B-day
+
+train O
+from O
+cambs B-depart
+after O
+9 O
+ta O
+
+i O
+would O
+like O
+to O
+bokk O
+a O
+rtarin O
+for O
+monday B-day
+departing O
+from O
+kikngs B-depart
+lynn I-depart
+and O
+arrivbing O
+at O
+famabridge B-dest
+at O
+1445 B-arrive
+
+well O
+. O
+may O
+i O
+know O
+its O
+arrival O
+time O
+
+i O
+am O
+looking O
+for O
+a O
+locomotive O
+to O
+london B-dest
+kings I-dest
+cross I-dest
+that O
+departs O
+after O
+08:15 B-leave
+. O
+
+i O
+need O
+a O
+train O
+no O
+earlier O
+20:45 B-leave
+from O
+cambridge B-depart
+
+london B-dest
+, O
+liverpool I-dest
+street I-dest
+area O
+
+i O
+would O
+like O
+2 O
+leave O
+on O
+thurs B-day
+
+i O
+need O
+to O
+take O
+a O
+train O
+on O
+wednesday B-day
+that O
+leaves O
+after B-leave
+1600 I-leave
+
+i'm O
+gonna O
+go O
+to O
+kings B-dest
+lynn I-dest
+
+it O
+would O
+be O
+great O
+if O
+the O
+train O
+arrive O
+by O
+9:45 B-arrive
+
+i O
+wood O
+lyk O
+to O
+leave O
+on O
+sudnay B-day
+
+birmingham B-dest
+, O
+new I-dest
+street I-dest
+, O
+wednesday B-day
+, O
+please O
+
+i O
+need O
+to O
+get O
+a O
+train O
+out O
+of O
+cambridge B-depart
+
+da O
+train O
+should O
+go O
+to O
+stansted B-dest
+airport I-dest
+nd O
+should O
+arrive O
+by O
+21:30 B-arrive
+. O
+
+i O
+wuld O
+like O
+2 O
+leav O
+tues B-day
+
+whichever O
+train O
+goes O
+2 O
+stansted B-dest
+airportt I-dest
+on O
+tuesday B-day
+from O
+cabridge O
+arriving O
+close O
+to O
+21:30 B-arrive
+. O
+
+great O
+can O
+i O
+book O
+that O
+for O
+8 B-people
+people O
+and O
+get O
+a O
+refrence O
+number O
+pealse O
+? O
+
+lookn O
+4 O
+train B-depart
+
+im O
+lookin O
+tgt O
+london B-dest
+kings I-dest
+cross I-dest
+departing O
+from O
+cambridge B-depart
+
+user O
+: O
+i O
+am O
+looking O
+for O
+a O
+train. O
+agent O
+: O
+i'd O
+be O
+happy O
+to O
+help O
+you O
+with O
+that. O
+can O
+you O
+tell O
+me O
+your O
+departure O
+location O
+and O
+where O
+you O
+are O
+headed O
+to? O
+user O
+: O
+i O
+am O
+looking O
+to O
+go O
+to O
+london O
+kings O
+cross O
+and O
+depart O
+from O
+cambridge. O
+agent O
+: O
+there O
+are O
+70 O
+trains O
+making O
+that O
+trip, O
+do O
+you O
+have O
+a O
+day O
+or O
+time O
+? O
+
+after O
+12:30 B-leave
+from O
+broxbourne B-depart
+to O
+cambridge O
+
+i O
+am O
+lkng O
+4 O
+a O
+train O
+to O
+broxbourne B-dest
+after O
+15:15 B-leave
+. O
+
+pls O
+find O
+train O
+at O
+15.15 O
+on O
+sunday B-day
+m O
+
+tuesday B-day
+
+need O
+to O
+go O
+to O
+cambridge B-dest
+frm O
+stevenage B-depart
+, O
+after O
+1045 B-leave
+
+wednesday B-day
+
+id O
+like O
+a O
+train O
+to O
+london B-dest
+liverpool I-dest
+st I-dest
+that O
+leaves O
+after O
+10 B-leave
+
+ill O
+b O
+leaving O
+from O
+cambridge B-depart
+fri B-day
+
+which O
+train O
+is O
+leaving O
+from O
+broxbournea B-depart
+
+i O
+would O
+like O
+head O
+to O
+cambridge B-dest
+
+no O
+i O
+should O
+arrive O
+there O
+by O
+17:15 B-arrive
+
+im O
+leaving O
+wedesday B-day
+. O
+
+does O
+dat O
+train O
+arrive O
+b4 O
+17:15 B-arrive
+
+need O
+a O
+train O
+to O
+cambridge B-dest
+
+ely B-depart
+this O
+fri B-day
+
+i O
+leave O
+saturday B-day
+am O
+at O
+8:45 B-leave
+. O
+
+schedule O
+dictates O
+leave O
+cambridge O
+on O
+thursday B-day
+at O
+08:45 O
+and O
+i O
+wonder O
+if O
+you O
+can O
+issue O
+a O
+ticket O
+for O
+that O
+day O
+and O
+time O
+
+i O
+need O
+2 O
+leave O
+after O
+2015 B-leave
+
+just O
+1 B-people
+
+nrwch B-depart
+2 O
+cmbrdg B-dest
+
+omg O
+arrive O
+in O
+cambridge O
+@ O
+14:15 B-arrive
+
+well O
+there O
+are O
+two B-people
+only O
+
+please O
+provide O
+me O
+information O
+about O
+the O
+trains O
+to O
+cambridge B-dest
+that O
+leaves O
+on O
+friday B-day
+
+im O
+looking O
+for O
+aa O
+train O
+from O
+cambridge B-depart
+
+i O
+have O
+a O
+fliht O
+to O
+mexico O
+from O
+standed B-dest
+airport I-dest
+, O
+can O
+you O
+tell O
+me O
+hw O
+i O
+would O
+ger O
+there O
+? O
+
+id O
+like O
+too O
+trvl O
+in O
+thrsday B-day
+. O
+
+i O
+cant O
+leave O
+til O
+after O
+16:15 B-leave
+. O
+
+i'm O
+looking O
+for O
+reservations O
+for O
+two B-people
+people O
+on O
+the O
+train O
+on O
+tuesday B-day
+at O
+10:30 B-arrive
+with O
+final O
+destination O
+broxbourne B-dest
+and O
+leaving O
+cambridge B-depart
+. O
+
+i O
+am O
+reaching O
+their O
+on O
+monday B-day
+at O
+14:15 B-arrive
+
+i O
+wuld O
+like O
+to O
+trvl O
+on O
+mon B-day
+after O
+12:00 B-leave
+. O
+
+i O
+want O
+2 O
+go O
+2 O
+licester B-dest
+
+nned O
+to O
+go O
+to O
+cambrid B-dest
+monday B-day
+
+just O
+1 B-people
+pls O
+. O
+
+i O
+to O
+bok O
+a O
+train O
+that O
+departs O
+from O
+cambridge B-depart
+and O
+arrives O
+in O
+peterbrough B-dest
+by O
+21:45 B-arrive
+. O
+
+i O
+ned O
+a O
+tran O
+frum O
+london B-depart
+loverpool I-depart
+streete I-depart
+station O
+on O
+wednasday B-day
+. O
+
+i O
+ned O
+to O
+arive O
+bye O
+14:45 B-arrive
+. O
+
+i O
+want O
+2 O
+leave O
+on O
+weds B-day
+
+y O
+that O
+works O
+great O
+can O
+i O
+book O
+that O
+for O
+5 B-people
+people O
+please O
+? O
+
+cn O
+i O
+fnd O
+a O
+train O
+to O
+peterborough B-dest
+departing O
+frm O
+cambridge B-depart
+
+im O
+going O
+2 O
+kings O
+lyn B-dest
+
+i'ams O
+woood O
+have O
+leavd O
+frum O
+cambrige B-depart
+
+the O
+train O
+sd O
+leave O
+after O
+10:15 B-leave
++ O
+go O
+2 O
+peterborogh B-dest
+
+train O
+from O
+da O
+cambridge B-depart
+station O
+to O
+da O
+ely B-dest
+station O
+. O
+
+am O
+looking O
+4 O
+a O
+train O
+it O
+should O
+arrive O
+by O
+1830 B-arrive
+and O
+should O
+go O
+2 O
+peterborough B-dest
+
+i O
+need O
+2 O
+leave O
+on O
+sun B-day
+from O
+cambride B-depart
+
+im O
+looking O
+for O
+train O
+going O
+to O
+cambride B-dest
+pls O
+
+i'm O
+lookn O
+4 O
+a O
+train O
+going O
+2 O
+cambridge B-dest
+
+user O
+: O
+i O
+will O
+be O
+leaving O
+from O
+brookshite B-depart
+. O
+
+plz O
+get O
+me O
+from O
+london B-depart
+liverpool I-depart
+street I-depart
+to O
+cambridge B-dest
+asap O
+. O
+thnks O
+
+im O
+gonna O
+need O
+1 B-people
+ticket O
+
+cold O
+you O
+tel O
+me O
+when O
+the O
+tran O
+arives O
+in O
+london B-dest
+liverpool I-dest
+stret B-dest
+? O
+
+i O
+actualy O
+need O
+2 O
+leave O
+on O
+sat B-day
+
+i O
+nd O
+a O
+train O
+t O
+thday B-day
+leaving O
+from O
+cambridge B-depart
+t O
+ely B-dest
+. O
+
+im O
+leavin O
+@ O
+545 B-leave
+, O
+after O
+that O
+is O
+cool O
+
+i'm O
+am O
+loking O
+for O
+a O
+trainn O
+from O
+campbridge B-depart
+to O
+leicester B-dest
+. O
+
+i O
+will O
+be O
+leavin O
+on O
+monday B-day
+. O
+
+i'd O
+lik O
+to O
+fiind O
+a O
+train O
+to O
+peteborough B-dest
+
+can O
+u O
+reserve O
+6 B-people
+tix O
+onteh O
+next O
+trai O
+nafter O
+1155 B-leave
+? O
+
+i O
+wuold O
+liek O
+to O
+leve O
+after B-leave
+9:00 I-leave
+on O
+snday B-day
+
+im O
+goin O
+to O
+cambridge B-dest
+. O
+
+i'll O
+willl O
+be O
+leavin O
+from O
+london B-depart
+liverpool I-depart
+streeet I-depart
+
+night O
+train O
+after O
+9 B-leave
+, O
+start O
+at O
+liverpool O
+st O
+
+pls O
+, O
+i O
+need O
+to O
+borard O
+the O
+train O
+that O
+'ll O
+leave O
+cmbdge B-depart
+and O
+arrive O
+in O
+k. B-dest
+l. B-dest
+at O
+8am O
+. O
+
+wanna O
+get O
+a O
+train O
+2 O
+cambridge B-depart
+plz O
+
+leavin O
+sun O
+need O
+to O
+get O
+thur B-day
+by O
+13:00 B-arrive
+
+im O
+loking O
+for O
+a O
+train O
+ging O
+to O
+broxbourne B-dest
+pleas O
+. O
+
+i'm O
+loking O
+for O
+a O
+trane O
+that O
+will O
+be O
+gong O
+to O
+london B-dest
+kings I-dest
+cross I-dest
+on O
+wed B-day
+. O
+
+i O
+need O
+to O
+arive O
+by O
+18:00 B-arrive
+. O
+
+pls O
+find O
+a O
+train O
+that O
+deaprts O
+from O
+peterborogh B-depart
++ O
+arrives O
+i O
+ncambridge B-dest
+by O
+845 B-arrive
+
+i O
+wold O
+like O
+to O
+leav O
+on O
+sat B-day
+from O
+lond0n O
+liverpool O
+stret O
+
+what'e O
+the O
+sitch O
+on O
+trains O
+from O
+cambridge B-depart
+to O
+ely B-dest
+? O
+
+book O
+for O
+3 B-people
+and O
+a O
+reference O
+nmbr O
+pls O
+? O
+
+ineed O
+2 O
+bok O
+a O
+train B-dest
+
+i'm O
+at O
+biishops B-depart
+strotford I-depart
+and O
+would O
+like O
+2 O
+go O
+2 O
+cambridge B-dest
+. O
+
+i O
+wd O
+like O
+to O
+travel O
+this O
+weds B-day
+n O
+needto O
+leave O
+after O
+815 B-leave
+
+user O
+: O
+would O
+you O
+be O
+able O
+to O
+find O
+me O
+a O
+train O
+leaving O
+on O
+sunday B-day
+? O
+
+wednesday B-day
+is O
+the O
+plan O
+atm O
+
+i O
+readlly O
+must O
+arive O
+by O
+18:15 B-arrive
+to O
+mkae O
+my O
+meting O
+. O
+
+need O
+a O
+train O
+to O
+take O
+5me O
+to O
+cambridge B-dest
+
+i O
+wud O
+lke O
+to O
+lve O
+frm O
+stevenage B-depart
+on O
+thrsdy B-day
+and O
+get O
+to O
+cambridge O
+by O
+9:15 O
+
+ima O
+leave O
+leicester B-depart
+n O
+need O
+to O
+leave O
+by O
+20:30 B-leave
+
+i O
+ned O
+a O
+train O
+on O
+tuesday B-day
+out O
+of O
+kings B-depart
+lynn I-depart
+
+i O
+wanna O
+leave O
+on O
+tues B-day
+. O
+
+train O
+on O
+tues B-day
+at O
+930 O
+from O
+kings B-depart
+to O
+cam B-dest
+
+i O
+need O
+a O
+trane O
+out O
+2 O
+london B-dest
+lverpool I-dest
+st. I-dest
+on O
+saturday B-day
+. O
+
+looking O
+to O
+leave O
+after O
+15:30 B-leave
+frm O
+cambridge B-depart
+
+i'm O
+goin O
+2 O
+cambridge B-dest
+
+i'll O
+be O
+goign O
+to O
+perterborough O
+from B-dest
+cambrigde O
+. B-depart
+
+yes O
+pls O
+bok O
+it O
+for O
+1 B-people
+person O
+and O
+provide O
+the O
+refer O
+numbr O
+
+pls O
+tell O
+me O
+abt O
+train O
+leaving O
+after O
+11:45 B-leave
+
+ill O
+be O
+leaving O
+stansteed B-depart
+airport I-depart
+fri B-day
+2 O
+head O
+twds O
+cambridge B-dest
+
+user O
+: O
+that O
+would O
+work O
+for O
+me O
+. O
+can O
+i O
+get O
+a O
+train O
+for O
+7 B-people
+people O
+? O
+
+the O
+departing O
+trane O
+should O
+leve O
+after O
+1415 B-leave
+, O
+headed O
+2 O
+burmingham B-dest
+new I-dest
+st I-dest
+
+im O
+loking O
+for O
+a O
+train O
+that O
+goes O
+2 O
+cambidge B-dest
+aruond O
+10:45 B-arrive
+
+you O
+need O
+to O
+go O
+by O
+train O
+from O
+cambrige B-depart
+to O
+noeich B-dest
+. O
+
+are O
+there O
+any O
+trains O
+leaving O
+form O
+cambride B-depart
+on O
+thu B-day
+? O
+
+im O
+heading O
+2 O
+broxborn B-dest
+
+pls O
+im O
+looking O
+the O
+one O
+that O
+arrive O
+at O
+3pm B-arrive
+
+im O
+gonna O
+hav O
+6 B-people
+pls O
+
+i O
+neid O
+a O
+tran O
+to O
+peteroborgh B-dest
+from O
+cambrige B-depart
+on O
+sundai B-day
+. O
+
+i O
+wd O
+like O
+2 O
+leve O
+after O
+1815 B-leave
+pls O
+
+i’m O
+gonna O
+deport O
+from O
+norwich B-depart
+
+i O
+wd O
+like O
+2 O
+leve O
+atfer O
+14:03 B-leave
+
+i O
+ned O
+2 O
+book O
+a O
+train O
+deprating O
+from O
+cabmridge B-depart
+after O
+915 O
+
+i O
+am O
+lookin O
+fr O
+a O
+train O
+departing O
+frm O
+london B-depart
+liverpool I-depart
+street I-depart
+on O
+thursday B-day
+to O
+go O
+to O
+cambridge B-dest
+. O
+
+i O
+have O
+to O
+board O
+a O
+train O
+to O
+cambridge B-dest
+. O
+
+no O
+, O
+please O
+confirm O
+the O
+train O
+time O
+comes O
+from O
+kings B-depart
+lynn I-depart
+. O
+
+i O
+wld O
+like O
+to O
+get O
+there O
+on O
+thur B-day
+
+id O
+like O
+togo O
+after O
+1000 B-leave
+
+im O
+looking O
+4 O
+a O
+train B-depart
+
+i O
+ned O
+too O
+leave O
+thrusday B-day
+frm O
+cambredge B-depart
+. O
+
+trns O
+that O
+r O
+ging O
+to O
+ptrbrgh B-dest
+
+i O
+am O
+looeking O
+to O
+go O
+frim O
+cambridg B-depart
+to O
+peterborgh O
+and O
+leaf O
+aftir O
+14:15 B-leave
+
+i'll O
+b O
+trvlling O
+on O
+2sday B-day
+
+i O
+need O
+a O
+rain O
+going O
+4rm O
+stevenage B-depart
+2 O
+cambrige B-dest
+
+yeah O
+, O
+you O
+got O
+any O
+on O
+teusday B-day
+and O
+arriving O
+by O
+9:00 B-arrive
+? O
+
+i O
+wanted O
+to O
+leaf O
+for O
+cambridgeby B-dest
+train O
+on O
+wendsay B-day
+
+i'll O
+b O
+coming O
+frm O
+london B-depart
+k.c. I-depart
+
+need O
+train O
+frm O
+london B-depart
+2 O
+kings I-depart
+cross O
+
+cambridge B-dest
+. O
+
+user O
+: O
+i'm O
+leaving O
+london B-depart
+liverpool I-depart
+street I-depart
+on O
+sunday B-day
+after O
+20:30 B-leave
+. O
+
+isnt O
+there O
+smth O
+closer O
+to O
+a O
+20:30 B-leave
+departure O
+? O
+
+i'm O
+ready O
+to O
+leave O
+sunday B-day
+. O
+
+yes O
+, O
+can O
+i O
+get O
+a O
+tckt O
+for O
+8 B-people
+ppl O
+, O
+pls O
+? O
+
+gimme O
+two B-people
+
+does O
+that O
+train O
+leave O
+on O
+fri B-day
+? O
+
+tx O
+you B-dest
+. O
+
+i O
+ned O
+train O
+2 O
+ely B-depart
+fr O
+camebrdge O
+plz O
+
+id O
+like O
+2 O
+leave O
+on O
+fri B-day
+n O
+arrive O
+by O
+1445 B-arrive
+
+stevenage; B-depart
+cambridge B-dest
+. O
+
+yes O
+i O
+wold O
+like O
+to O
+bok O
+it O
+for O
+8 B-people
+people O
+and O
+i O
+wil O
+ned O
+the O
+refer O
+numbr O
+. O
+
+i O
+wnat O
+2 O
+leave O
+form O
+stevenage B-depart
+on O
+sat B-day
+
+i O
+wud O
+lke O
+2 O
+leav O
+after O
+12:15 B-leave
+
+i O
+wll O
+depart O
+aby B-leave
+tim O
+as O
+long O
+as O
+the O
+trian O
+arrives O
+by O
+20:45 B-arrive
+
+i O
+need O
+2 O
+make O
+a O
+train O
+reservatoin O
+for O
+fri B-day
+n O
+i O
+need O
+it O
+to O
+arriveby O
+1900 B-arrive
+
+i O
+wil O
+be O
+daparting O
+from O
+cambridge B-depart
+. O
+
+i O
+will O
+be O
+gong O
+2 O
+stanstd B-dest
+airport I-dest
+
+to O
+cambridge B-dest
+and O
+leavin O
+london B-depart
+liver I-depart
+pool I-depart
+street I-depart
+
+user O
+: O
+i O
+need O
+a O
+train O
+to O
+take O
+me O
+from O
+cambridge B-depart
+to O
+broxbourne B-dest
+. O
+
+i O
+wll O
+be O
+travlling O
+on O
+onday B-day
+
+lemme O
+get O
+a O
+train O
+from O
+cambridge B-depart
+to O
+bishops B-dest
+. O
+
+thur B-day
+, O
+after O
+20:15 B-leave
+. O
+
+i O
+need O
+a O
+trian O
+from O
+cambrige B-depart
+after O
+9 B-leave
+thrusday B-day
+thx O
+
+iam O
+loking O
+for O
+a O
+train O
+2 O
+cambridge B-dest
+on O
+sat B-day
+
+yesss O
+saturday B-day
+pls O
+
+i'd O
+lick O
+to O
+arrival O
+at O
+13:45 B-arrive
+. O
+
+i O
+ned O
+a O
+train O
+that O
+leves O
+on O
+wed B-day
+with O
+an O
+arival O
+of O
+12:30 B-arrive
+. O
+
+i'm O
+travelinga O
+frum O
+camebridge B-depart
+to O
+the O
+londan B-dest
+liverpoole I-dest
+streete I-dest
+. O
+
+user O
+: O
+i'd O
+like O
+to O
+find O
+a O
+train O
+tuesday B-day
+departing O
+from O
+leicester B-depart
+. O
+
+i O
+wd O
+like O
+2 O
+leave O
+after O
+1115 B-leave
+
+yes O
+looking O
+2 O
+go O
+from O
+leicester O
+2 O
+cambridge B-dest
+aftr O
+11:15 O
+
+id O
+like O
+2 O
+find O
+a O
+train O
+from O
+leicesster O
+on O
+sat B-day
+
+i'm O
+gonna O
+to O
+cambrige B-dest
+and O
+need O
+to O
+go O
+after O
+12 B-leave
+
+i O
+am O
+looking O
+for O
+a O
+train O
+from O
+london B-depart
+kings I-depart
+cross I-depart
+and O
+leaves O
+on O
+wednesday B-day
+
+i O
+need O
+a O
+train O
+lving O
+frm O
+london B-depart
+liverpool I-depart
+strt I-depart
+on O
+fri B-day
+. O
+
+i O
+ned O
+to O
+arive O
+by O
+41:00 B-arrive
+
+user: O
+excuse O
+me O
+, O
+i O
+wanna O
+a O
+train O
+to O
+cambridge B-dest
+, O
+help O
+pls O
+? O
+
+i O
+wold O
+lik O
+to O
+leave O
+on O
+tueday B-day
+and O
+arive O
+by O
+13:30 B-arrive
+. O
+
+user O
+: O
+i O
+am O
+looking O
+for O
+a O
+train O
+on O
+friday B-day
+that O
+leaves O
+after O
+21:45 B-leave
+. O
+
+i'll O
+b O
+lvng O
+frm O
+cambridge B-depart
+nd O
+i O
+wnt O
+to O
+go O
+to O
+stansted B-dest
+airport I-dest
+
+in O
+eed O
+2 O
+leave O
+after O
+2145 B-leave
+
+im O
+deporting O
+london B-depart
+kong’s I-depart
+cross I-depart
+after O
+19:00 B-leave
+. O
+
+i O
+ned O
+it O
+for O
+6 B-people
+peopel O
+. O
+
+im O
+looking O
+4 O
+a O
+train O
+leaving O
+london O
+kings B-depart
+corss I-depart
++ I-depart
+arriving O
+by O
+14:30 B-arrive
+
+im O
+gong O
+2 O
+cambrdge B-dest
+
+i'll O
+take O
+a O
+booking O
+4 O
+seven B-people
+ppl O
+at O
+10 B-leave
+. O
+
+i O
+wili O
+ned O
+2 O
+keave O
+from O
+cambridge B-depart
+
+i'd O
+like O
+2 O
+travel O
+on O
+a O
+thursday B-day
+. O
+
+get O
+ther O
+by O
+17:45 B-arrive
+pls O
+
+i O
+wud O
+like O
+to O
+catch O
+a O
+train O
+leaving O
+cambridge B-depart
+on O
+sunday B-day
+. O
+
+heading O
+too O
+leicester B-dest
+plz O
+
+gr8 O
+, O
+i O
+want O
+to O
+leave O
+after O
+10:15 B-leave
+, O
+ok O
+? O
+
+im O
+looking O
+for O
+a O
+train O
+htat O
+leaves O
+biships B-depart
+stortford I-depart
+and O
+goesto O
+cambride B-dest
+
+saturday B-day
+pls O
+
+'wood O
+like O
+t O
+arrive O
+in O
+cmbridge O
+by O
+8:15 B-arrive
+
+i O
+ned O
+a O
+train O
+from O
+lodon B-depart
+kings I-depart
+cros I-depart
+to O
+cabridge B-dest
+. O
+
+is O
+thr O
+rian O
+schdle O
+for O
+sudy B-day
+
+im O
+looking O
+4 O
+trn O
+lving O
+from O
+stevenage B-depart
+
+i O
+need O
+to O
+get O
+2 O
+cambrige B-dest
+this O
+fri B-day
+. O
+
+wan2 O
+to O
+go O
+a O
+little O
+after O
+13:30 B-leave
+. O
+
