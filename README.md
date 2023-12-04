@@ -84,14 +84,3 @@ Use the above command to start the testing stage.
 ```
 The 'test_path' represents the root directory containing the test datasets.
 
-## Citation
-```
-@misc{dong2023demonsf,
-      title={DemoNSF: A Multi-task Demonstration-based Generative Framework for Noisy Slot Filling Task}, 
-      author={Guanting Dong and Tingfeng Hui and Zhuoma GongQue and Jinxu Zhao and Daichi Guo and Gang Zhao and Keqing He and Weiran Xu},
-      year={2023},
-      eprint={2310.10169},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
