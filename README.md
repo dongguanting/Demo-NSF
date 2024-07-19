@@ -10,13 +10,11 @@ This repository contains the open-sourced official implementation of the paper:
 If you find this repo helpful, please cite the following paper:
 
 ```bibtex
-@misc{dong2023demonsf,
-      title={DemoNSF: A Multi-task Demonstration-based Generative Framework for Noisy Slot Filling Task}, 
-      author={Guanting Dong and Tingfeng Hui and Zhuoma GongQue and Jinxu Zhao and Daichi Guo and Gang Zhao and Keqing He and Weiran Xu},
-      year={2023},
-      eprint={2310.10169},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{dong2023demonsf,
+  title={Demonsf: A multi-task demonstration-based generative framework for noisy slot filling task},
+  author={Dong, Guanting and Hui, Tingfeng and GongQue, Zhuoma and Zhao, Jinxu and Guo, Daichi and Zhao, Gang and He, Keqing and Xu, Weiran},
+  journal={arXiv preprint arXiv:2310.10169},
+  year={2023}
 }
 ```
 
