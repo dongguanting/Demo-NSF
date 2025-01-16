@@ -10,12 +10,34 @@ This repository contains the open-sourced official implementation of the paper:
 If you find this repo helpful, please cite the following paper:
 
 ```bibtex
-@article{dong2023demonsf,
-  title={Demonsf: A multi-task demonstration-based generative framework for noisy slot filling task},
-  author={Dong, Guanting and Hui, Tingfeng and GongQue, Zhuoma and Zhao, Jinxu and Guo, Daichi and Zhao, Gang and He, Keqing and Xu, Weiran},
-  journal={arXiv preprint arXiv:2310.10169},
-  year={2023}
+@inproceedings{dong2023demonsf,
+  author       = {Guanting Dong and
+                  Tingfeng Hui and
+                  Zhuoma Gongque and
+                  Jinxu Zhao and
+                  Daichi Guo and
+                  Gang Zhao and
+                  Keqing He and
+                  Weiran Xu},
+  editor       = {Houda Bouamor and
+                  Juan Pino and
+                  Kalika Bali},
+  title        = {DemoNSF: {A} Multi-task Demonstration-based Generative Framework for
+                  Noisy Slot Filling Task},
+  booktitle    = {Findings of the Association for Computational Linguistics: {EMNLP}
+                  2023, Singapore, December 6-10, 2023},
+  pages        = {10506--10518},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2023},
+  url          = {https://doi.org/10.18653/v1/2023.findings-emnlp.705},
+  doi          = {10.18653/V1/2023.FINDINGS-EMNLP.705},
+  timestamp    = {Sun, 06 Oct 2024 21:00:49 +0200},
+  biburl       = {https://dblp.org/rec/conf/emnlp/DongHGZGZHX23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
+
+
 ```
 
 ## Introduction
